@@ -1,0 +1,31 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\deletosh\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add -D live-server
+
+PATH: 
+  C:\cmder\vendor\bin;C:\cmder\vendor\git-for-windows\cmd;C:\cmder\vendor\conemu-maximus5\ConEmu\Scripts;C:\cmder\vendor\conemu-maximus5;C:\cmder\vendor\conemu-maximus5\ConEmu;C:\Program Files (x86)\Parallels\Parallels Tools\Applications;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Users\deletosh\AppData\Local\Microsoft\WindowsApps;C:\Users\deletosh\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\deletosh\AppData\Roaming\npm;C:\cmder\vendor\git-for-windows\mingw64\bin;C:\cmder\vendor\git-for-windows\usr\bin;C:\cmder
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  14.15.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  SyntaxError: C:\msimbo-projects\week2-1-demo-3-starts-local\package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at C:\Users\deletosh\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (C:\Users\deletosh\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:310:30)
+      at C:\Users\deletosh\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:321:13
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
